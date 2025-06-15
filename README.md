@@ -4,11 +4,12 @@
 
 <div align="center">
 
-# Minecraft Telegram Bridge
+# Minecraft Telegram Bridge TerComPy Modified
 </div>
 
 <p align="center">
 A feature-rich multiloader mod to sync Telegram and Minecraft chats
+with additional functions from TerComPy
 </p>
 
 <div align="center">
@@ -26,26 +27,8 @@ https://github.com/vanutp/tgbridge/assets/11143488/697a6d5d-1f2c-4156-bf8d-14044
 - Supports Telegram topics (bot will work only in its dedicated topic)
 - Every feature can be toggled or configured
 - A lot more! See https://tgbridge.vanutp.dev/en/features for the full list
-
+- Run command from telegram in minecraft
+- Adding whitelist from telegram chat
 ## Quick start
 
 See https://tgbridge.vanutp.dev/en/quickstart
-
-## Contributions
-
-Want to help the project? Here's how you can help:
-
-- **⭐️ the repository**: Your support is important to me :)
-- **Open an issue**: Open an issue to suggest improvements or report bugs
-- **Vote for features**: Leave a 👍 on an issue if you are interested in the feature
-- **Send a PR**: Look for issues labeled "help wanted" if you want to contribute
-- Before working on a pull request, please discuss your proposed 
-  changes in an issue first — this helps avoid duplicate work and ensures your contribution
-  aligns with the project goals
-
-## Acknowledgements
-
-This project is inspired by these projects:
-
-- https://github.com/CuteNekoOwO/FabricTgBridge
-- https://github.com/ntoneee/minecraft-telegram-bridge
